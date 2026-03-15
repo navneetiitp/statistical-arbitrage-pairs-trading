@@ -1,9 +1,13 @@
-Processed and cleaned datasets used in the pairs trading strategy.
+# Processed Data
 
-This directory contains:
-- Cleaned price series after handling missing values
-- Log returns and normalized spreads
-- Feature-engineered datasets used for modeling and backtesting
+This folder contains processed datasets generated during the research pipeline.
 
-All datasets in this folder are derived from the raw data and are ready
-for statistical testing, signal generation, and backtesting.
+Examples include:
+
+- Cointegrated pairs
+- Correlation results
+- Trading signals
+- Portfolio returns
+- Strategy performance metrics
+
+These datasets are produced by the Jupyter notebooks in the notebooks/ folder.
