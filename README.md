@@ -3,11 +3,7 @@
 ![Status](https://img.shields.io/badge/status-research--project-orange)
 ![Strategy](https://img.shields.io/badge/strategy-statistical--arbitrage-purple)
 
-# Strategy Results
 
-![Equity Curve](reports/equity_curve.png)
-![Rolling Sharpe](reports/rolling_sharpe_ratio.png)
-![Drawdown](reports/portfolio_drawdown.png)
 
 # Statistical Arbitrage Strategy using Pairs Trading (NIFTY 50)
 
@@ -31,6 +27,24 @@ This project implements a complete quantitative research pipeline:
 8. Build a multi-pair portfolio strategy
 9. Evaluate risk-adjusted performance metrics
 10. Perform advanced mean-reversion diagnostics
+
+# Strategy Results
+
+![Equity Curve](reports/equity_curve.png)
+![Rolling Sharpe](reports/rolling_sharpe_ratio.png)
+![Drawdown](reports/portfolio_drawdown.png)
+
+
+# Strategy Performance Metrics
+
+| Metric | Value |
+|------|------|
+| Annual Return | 39.1 % |
+| Annual Volatility | 23.9 % |
+| Sharpe Ratio | 1.43 |
+| Sortino Ratio | 2.57 |
+| Maximum Drawdown | -30.4 % |
+| Calmar Ratio | 1.29 |
 
 # Project Structure
 
