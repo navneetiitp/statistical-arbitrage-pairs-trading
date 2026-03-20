@@ -39,12 +39,12 @@ This project implements a complete quantitative research pipeline:
 
 | Metric | Value |
 |------|------|
-| Annual Return | 39.1 % |
-| Annual Volatility | 23.9 % |
-| Sharpe Ratio | 1.43 |
-| Sortino Ratio | 2.57 |
-| Maximum Drawdown | -30.4 % |
-| Calmar Ratio | 1.29 |
+| Annual Return | 39.5% |
+| Annual Volatility | 23% |
+| Sharpe Ratio | 1.49 |
+| Sortino Ratio | 2.74 |
+| Maximum Drawdown | -25.3% |
+| Calmar Ratio | 1.56 |
 
 # Project Structure
 
