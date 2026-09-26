@@ -1,0 +1,2 @@
+pair,train_start,train_end,test_start,test_end,cointegration_p_value,adf_p_value,hedge_ratio_beta,lookback,entry_z,exit_z,transaction_cost,cagr,annualized_volatility,sharpe,sortino,max_drawdown,final_equity,position_changes
+HDFCBANK.NS / KOTAKBANK.NS,2018-01-01,2023-08-03,2023-08-04,2024-12-31,0.017222576786111558,0.0013773526743391718,0.9788011218178368,20,1.5,0.5,0.0005,0.06330474776647765,0.0707685126207467,0.9312837106842728,1.1323050179648038,-0.05089763762204258,1.0904035313939535,47
